@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Teleport 2" NumPts="12" Millseconds="1118" AppName="Assembly-CSharp" AppVer="0.0.0.0" Date="09 January 2022" TimeOfDay="19:44:37">
+  <Point X="948.1101" Y="786.715637" T="8878" />
+  <Point X="954.055054" Y="790.6789" T="8980" />
+  <Point X="1027.37622" Y="867.9633" T="9084" />
+  <Point X="1092.77075" Y="941.2844" T="9185" />
+  <Point X="1098.7157" Y="949.21106" T="9285" />
+  <Point X="1102.679" Y="955.156" T="9386" />
+  <Point X="1102.679" Y="955.156" T="9490" />
+  <Point X="1108.6239" Y="822.3853" T="9592" />
+  <Point X="1102.679" Y="574.6789" T="9692" />
+  <Point X="1092.77075" Y="435.963318" T="9794" />
+  <Point X="1090.78906" Y="414.165161" T="9896" />
+  <Point X="1090.78906" Y="412.1835" T="9996" />
+</Gesture>

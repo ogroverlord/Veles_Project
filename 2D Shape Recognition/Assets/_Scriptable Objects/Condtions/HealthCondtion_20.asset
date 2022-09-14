@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bd5fb1a6743d0143b8ee3db347b42a5, type: 3}
+  m_Name: HealthCondtion_20
+  m_EditorClassIdentifier: 
+  _playerHealth: {fileID: 11400000, guid: 9655525046620f1459f1c91d97bee4e2, type: 2}
+  _healthThreshold: 20
